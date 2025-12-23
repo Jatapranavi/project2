@@ -1,0 +1,11 @@
+TransactionID,AccountID,TransactionDate,Amount,TransactionType,FraudPrediction
+1,101,01-01-2025,500,Credit,0
+2,102,01-01-2025,15000,Debit,0
+3,101,02-01-2025,200,Debit,0
+4,103,02-01-2025,25000,Credit,0
+5,104,03-01-2025,300,Debit,0
+6,102,03-01-2025,12000,Credit,0
+7,105,04-01-2025,100,Debit,0
+8,106,04-01-2025,50000,Credit,1
+9,101,05-01-2025,400,Debit,0
+10,107,05-01-2025,30000,Credit,1
